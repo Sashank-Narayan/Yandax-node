@@ -1,0 +1,2 @@
+# Yandax-node
+You are expected to create a fully responsivesearch-basedwebsite of your choice(You can refer to https://9anime.city/forreference). The website should be able to perform CRUD operations and the search should be optimized.You are free to use dummy data for the databaseto show responsiveness.You will be judged on your developmentskills and your design/creativity along withwebsite responsiveness.
